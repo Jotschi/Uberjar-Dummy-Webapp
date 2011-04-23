@@ -1,0 +1,1 @@
+Dummy multimodule maven project that demonstrates how to create a uberjar webapp using maven and jetty. This dummy shows also how to get started with jersey and maven.
